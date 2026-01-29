@@ -1,0 +1,1 @@
+package FunctionInterface_BiPredicate_Lambda;
